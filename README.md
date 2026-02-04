@@ -1,2 +1,7 @@
-# COIS-3060-Workshop4
-Book catalog system for Riverside Library
+# Library Catalog System
+Simple book catalog for Riverside Library
+
+## Features (Coming Soon)
+- Add books
+- Search books
+- List all books
